@@ -1,0 +1,9 @@
+
+g	java:S116
+"RRename this field "num_bit" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¹êÅÏ
+\
+java:S1854*"ARemove this useless assignment to local variable "entryPosition".(ž‡Œºþÿÿÿÿ
+T
+java:S1481#"2Remove this unused "entryPosition" local variable.(ä×½Üøÿÿÿÿ8žâ«§ä0
+O
+java:S1128"-Remove this unused import 'java.util.Arrays'.(î–˜Éüÿÿÿÿ8¦ìÉ§ä0
